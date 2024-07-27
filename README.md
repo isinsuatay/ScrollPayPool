@@ -16,7 +16,7 @@ This project is a simple PayPool smart contract with deposit tracking and status
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/PayPoolProject.git
+git clone git remote add origin https://github.com/isinsuatay/ScrollPayPool.git
 cd PayPoolProject
 ```
 
